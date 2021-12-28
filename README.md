@@ -29,7 +29,7 @@ def binary_search(lst, v):
 
 ```
 $ java BinarySearch
-'5' is at location 4
+'5' is at location 3
 '13' is at location 7
-'10' does not exist!. 
+'10' does not exist!
 ```
