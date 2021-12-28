@@ -16,7 +16,7 @@ Rewrite the following Python program in a Java programming language.
 def binary_search(lst, v):
     i, j = 0, len(lst)
     while i < j:
-        mid = (i + j) / 2
+        mid = (i + j) // 2
         if v < lst[mid]:
             j = mid
         elif v > lst[mid]:
