@@ -10,7 +10,7 @@ Rewrite the following Python program in a Java programming language.
 * In the `main` method of the `BinarySearch` class, 
   * declares an array `A` and initializes it with the following data:
     `1, 2, 4, 5, 7, 8, 11, 13`
-  * display the result of calling the method `binarySearch` on array `A` for the value `5`, `3`, and `10` respectively.
+  * display the result of calling the method `binarySearch` on array `A` for the value `5`, `13`, and `10` respectively.
 
 ```
 def binary_search(lst, v):
